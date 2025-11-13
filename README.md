@@ -25,31 +25,31 @@ Certificates/
 ## Courses
 
 ### **Big Data Platforms**
-Certificate covering big data technologies, distributed computing systems, and data processing frameworks.
+Certificate covering big data technologies, distributed computing systems, PySpark and data processing frameworks.
 
 ### **Containers**
-Comprehensive training on container technologies, containerization principles, and container orchestration basics.
+Comprehensive training on container technologies, containerization principles, Docker, and container orchestration basics.
 
 ### **Continuous Integration**
-Course focused on CI/CD pipelines, automated testing, build automation, and continuous delivery practices.
+Course focused on CI/CD pipelines, automated testing, build automation, Jenkins, Git Ops, and continuous delivery practices.
 
 ### **Databases**
-Training covering database design, SQL, NoSQL databases, and database management systems.
+Training covering database design, SQL, NoSQL databases, PostgreSQL, and database management systems.
 
 ### **Deep Learning**
-Advanced course on neural networks, deep learning frameworks, GPUs, and machine learning algorithms.
+Advanced course on neural networks, deep learning frameworks, GPUs, Python, and machine learning algorithms.
 
 ### **Docker**
 Specialized certification in Docker containerization, Docker Compose, and container management.
 
 ### **Full Stack Development**
-Comprehensive full-stack web development course covering frontend and backend technologies.
+Comprehensive full-stack web development course covering frontend with React and backend technologies with Node.js.
 
 ### **GraphQL**
 Course on GraphQL API design, queries, mutations, and GraphQL server implementation.
 
 ### **Kubernetes**
-Training on Kubernetes container orchestration, cluster management, and cloud-native deployments.
+Training on Kubernetes container orchestration, cluster management, Google GCP and cloud-native deployments.
 
 ### **React**
 Certificate in React.js library, component architecture, state management, and modern React patterns.
@@ -58,7 +58,7 @@ Certificate in React.js library, component architecture, state management, and m
 Mobile application development using React Native framework for iOS and Android platforms.
 
 ### **TypeScript**
-Course covering TypeScript language, type systems, and TypeScript in modern web development.
+Course covering TypeScript language, type systems, HTML, CSS and TypeScript in modern web development.
 
 ---
 
