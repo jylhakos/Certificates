@@ -11,6 +11,7 @@ Certificates/
 ├── certificate-big-data-platforms.png
 ├── certificate-containers.png
 ├── certificate-continuous-integration.png
+├── certificate-cuda-and-gpu.pdf
 ├── certificate-databases.png
 ├── certificate-deep-learning.pdf
 ├── certificate-docker.png
@@ -33,11 +34,14 @@ Comprehensive training on container technologies, containerization principles, D
 ### **Continuous Integration**
 Course focused on CI/CD pipelines, automated testing, build automation, Jenkins, Git Ops, and continuous delivery practices.
 
+### **CUDA and GPU Programming**
+Advanced course on neural networks, deep learning frameworks, machine learning algorithms, GPUs, CUDA, Python and C++.
+
 ### **Databases**
 Training covering database design, SQL, NoSQL databases, PostgreSQL, and database management systems.
 
 ### **Deep Learning**
-Advanced course on neural networks, deep learning frameworks, GPUs, Python, and machine learning algorithms.
+Course on neural networks, deep learning algorithms, Python, Keras and Tensorflow.
 
 ### **Docker**
 Specialized certification in Docker containerization, Docker Compose, and container management.
